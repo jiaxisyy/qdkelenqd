@@ -6,8 +6,8 @@
 
     <view.AnimotionSGView
         android:id="@+id/sg_animotion"
-        android:layout_width="0px"
-        android:layout_height="0px"/>
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
 
     <android.support.v4.widget.DrawerLayout
         android:id="@+id/dl_animation"

@@ -110,10 +110,7 @@ public class AnimotionSGView extends SurfaceView implements SurfaceHolder.Callba
     public AnimotionSGView(Context context, AttributeSet attributeSet, int defStyle) {
         super(context, attributeSet, defStyle);
         this.context = context;
-
-
         initData();
-
     }
 
     private void drawCanvas(Bitmap bitmap) {
@@ -128,6 +125,7 @@ public class AnimotionSGView extends SurfaceView implements SurfaceHolder.Callba
     }
 
     public void onVideoSizeChanged(int width, int height) {
+        Log.d("TAG","我拉ILE");
         // resize the display window to fit the screen
         if (width != 0 && height != 0) {
             float ratioW = (float) width / (float) mSurfaceWidth;
@@ -140,13 +138,14 @@ public class AnimotionSGView extends SurfaceView implements SurfaceHolder.Callba
               /*  FrameLayout.LayoutParams layout = new FrameLayout.LayoutParams(width, height);
                 layout.gravity=Gravity.CENTER;*/
             setLayoutParams(layoutParams);
+            Log.d("TAG","我拉ILE");
         }
     }
 
     @Override
     public void surfaceCreated(final SurfaceHolder holder) {
         //    this.drawCanvas(bitmap);
-        onVideoSizeChanged(670,mCHARTH);
+       // onVideoSizeChanged(670,520);
         Log.d("TAG", "surfaceCreated");
     }
 
@@ -228,6 +227,7 @@ public class AnimotionSGView extends SurfaceView implements SurfaceHolder.Callba
         mCHARTH = MeasureSpec.getSize(heightMeasureSpec);
 
         Log.d("LINVIEW", CHARTW + "　" + mCHARTH);
+
         super.onMeasure(widthMeasureSpec, heightMeasureSpec);
     }
 

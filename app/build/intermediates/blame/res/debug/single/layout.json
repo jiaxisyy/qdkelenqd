@@ -32,12 +32,12 @@
         "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\animation_fragment.xml",
