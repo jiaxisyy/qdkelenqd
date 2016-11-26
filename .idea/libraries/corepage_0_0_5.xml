@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="corepage-0.0.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/cn.edu.zafu/corepage/0.0.5/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/cn.edu.zafu/corepage/0.0.5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.edu.zafu/corepage/0.0.5/874afe25b69599363f9de25219fa5a6d8a132287/corepage-0.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

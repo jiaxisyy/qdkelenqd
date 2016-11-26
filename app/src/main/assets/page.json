@@ -1,0 +1,26 @@
+[
+  {
+    "name": "f1",
+    "class": "activity.MainFragment",
+    "params": ""
+  },
+  {
+
+    "name": "f2",
+    "class": "fragment.AnimationFragment",
+    "params": ""
+  },
+  {
+    "name": "test2",
+    "class": "cn.edu.zafu.corepage.sample.TestFragment2",
+    "params": ""
+  },
+  {
+    "name": "test3",
+    "class": "cn.edu.zafu.corepage.sample.TestFragment3",
+    "params": {
+      "key1": "value1",
+      "key2": "value2"
+    }
+  }
+]

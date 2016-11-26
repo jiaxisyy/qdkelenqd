@@ -16,7 +16,7 @@ public class A extends Activity {
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.a);
-        startActivity(new Intent(this, MainActivity.class));
+        startActivity(new Intent(this, MainFragment.class));
         finish();
     }
 }

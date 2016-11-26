@@ -5,6 +5,7 @@ import android.graphics.Bitmap;
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
+import android.graphics.PixelFormat;
 import android.graphics.PorterDuff;
 import android.graphics.Rect;
 import android.graphics.drawable.AnimationDrawable;
@@ -179,8 +180,8 @@ public class AnimotionSGView extends SurfaceView implements SurfaceHolder.Callba
         DisplayMetrics dm2 = getResources().getDisplayMetrics();
         mHeight = dm2.heightPixels;
         mWeight = dm2.widthPixels;
-        //setZOrderOnTop(true);
-//        getHolder().setFormat(PixelFormat.TRANSLUCENT);
+        setZOrderOnTop(true);
+        getHolder().setFormat(PixelFormat.TRANSLUCENT);
         holder = this.getHolder();
         //surface回调
         holder.addCallback(this);
@@ -399,7 +400,7 @@ public class AnimotionSGView extends SurfaceView implements SurfaceHolder.Callba
                     if (canvas != null) {
                         canvas.drawColor(Color.TRANSPARENT, PorterDuff.Mode.CLEAR);
 
-                        setBitmap(bitmap, canvas);
+//                        setBitmap(bitmap, canvas);
                         drawUiCircle1(canvas);
                         drawUiCircle2(canvas);
                         drawUiCircle3(canvas);

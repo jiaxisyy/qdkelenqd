@@ -132,6 +132,10 @@
         "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\src\\main\\res\\drawable\\main_3.xml"
     },
     {
+        "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sh.xml",
+        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\src\\main\\res\\drawable\\sh.xml"
+    },
+    {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
         "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
@@ -142,6 +146,10 @@
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recycle_line.xml",
         "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\src\\main\\res\\drawable\\recycle_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\__leak_canary_toast_background.xml",
+        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.3.1\\res\\drawable\\__leak_canary_toast_background.xml"
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",

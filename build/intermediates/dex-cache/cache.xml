@@ -1,3 +1,383 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\com.koushikdutta.async\androidasync\2.1.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="60d0e28fe7ab6da6c03b54cd8ede502284d51a81">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.koushikdutta.async-androidasync-2.1.9_47daaa3ae58151f8e2349ea92ab26049d8b7a8a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_9b1b1f32adb9c1aaceade1ac368dcfdf6bb621b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\gson-2.6.2_c17c38981cd59f0a67cb02a0689a27ab08e3284c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_4fc7c5bc3bfdf1f873e4591a391dacde7718eb79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.2.1_7bf22ce5883a1eeeeca5005bf9bd16e3c7bc2c36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\in.srain.cube\ultra-ptr\1.0.11\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0bdf70123d26dd83d8462d602b3a83a41934cf6">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\in.srain.cube-ultra-ptr-1.0.11_1c398ad1b20dbbd9f7449bbc4793b637fe1a5b4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_671bc0374407e181670bacf6baa4ad222a6741c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.2.1\d6f54d76edfbe779a50a8636b10fd3f555d8f780\butterknife-annotations-8.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.2.1_0d4402916818e92f3543cd36b503bc4e4c203b41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\com.koushikdutta.ion\ion\2.1.9\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e54ea31584406fcc68225a8656f384c333ff2ee">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.koushikdutta.ion-ion-2.1.9_c6aa8c8432b39595ca1cf9e7614523dbd2e43de3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_83c62b9c2460bee59fd6ed7924f588ea76dfcf54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.2.1_4c1d694c9914e14b91c6e22b800850e7b56dc352.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\cn.edu.zafu\corepage\0.0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="87fb8f222a463dbaae175db5a194356eee4e394d">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\cn.edu.zafu-corepage-0.0.5_ada2a2abd1e0aca1e77c370ccc6f73231b84f975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.2.6\b74bde9cceb2f9ec1077a9c7c3a007c251531ba6\fastjson-1.2.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b74bde9cceb2f9ec1077a9c7c3a007c251531ba6">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\fastjson-1.2.6_ca4d0e55797ce611db5d7b1525b2210569dea9d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_7332ce5e17b9a9ba5a77c2ad3c75adac3b4e033d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\gson-2.6.2_c17c38981cd59f0a67cb02a0689a27ab08e3284c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="003ebdacd5f75067b8724f92bd5eefa323d870aa">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-23.3.0_2673e38bc165eebdb0700ee14fcba72f71367c97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-analyzer\1.3.1\325e7401a7ea16918eb39ba8baad8fd5561a55d3\leakcanary-analyzer-1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="325e7401a7ea16918eb39ba8baad8fd5561a55d3">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\leakcanary-analyzer-1.3.1_59174d4e5b3c8eec4f879a5a4538cc9c36200364.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_af585eb2986b2eec6b4f5ae2b226da2a9efa46d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\.gradle\caches\modules-2\files-2.1\com.squareup.haha\haha\1.3\d2c832f9d14a11c79f58a7ee2e10526a12152c72\haha-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d2c832f9d14a11c79f58a7ee2e10526a12152c72">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\haha-1.3_a6241c5e7ed98725c5a5a0b3c67783f8cfe25325.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Studio\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_1041cf7d21352864b2206fb5270dfc6fb0095516.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="003ebdacd5f75067b8724f92bd5eefa323d870aa">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-23.3.0_2673e38bc165eebdb0700ee14fcba72f71367c97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\com.koushikdutta.async\androidasync\2.1.9\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="60d0e28fe7ab6da6c03b54cd8ede502284d51a81">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.koushikdutta.async-androidasync-2.1.9_47daaa3ae58151f8e2349ea92ab26049d8b7a8a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9066b6d4e2536b49e3b58aa301fd925247032df0">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.squareup.leakcanary-leakcanary-android-1.3.1_72d474583105c2c0057055fcbf616a606635ceec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.2.1_7bf22ce5883a1eeeeca5005bf9bd16e3c7bc2c36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_7332ce5e17b9a9ba5a77c2ad3c75adac3b4e033d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_671bc0374407e181670bacf6baa4ad222a6741c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_2bebf7108713c64f721299ac670db6159213f0f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\in.srain.cube\ultra-ptr\1.0.11\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0bdf70123d26dd83d8462d602b3a83a41934cf6">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\in.srain.cube-ultra-ptr-1.0.11_1c398ad1b20dbbd9f7449bbc4793b637fe1a5b4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.2.1_4c1d694c9914e14b91c6e22b800850e7b56dc352.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\com.koushikdutta.ion\ion\2.1.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e54ea31584406fcc68225a8656f384c333ff2ee">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.koushikdutta.ion-ion-2.1.9_c6aa8c8432b39595ca1cf9e7614523dbd2e43de3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\cn.edu.zafu\corepage\0.0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="87fb8f222a463dbaae175db5a194356eee4e394d">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\cn.edu.zafu-corepage-0.0.5_ada2a2abd1e0aca1e77c370ccc6f73231b84f975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e754e61b0202e9df82c42d542a8f40bf950a3b2a">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\instant-run_6939b4cdea7fc516b3683832889d899f795c1859.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.3.1\6904771474c058abfc5912c13d12b02754712165\leakcanary-watcher-1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6904771474c058abfc5912c13d12b02754712165">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\leakcanary-watcher-1.3.1_ff3820633bc09535953b191da3c98b7cbe54d9a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_83c62b9c2460bee59fd6ed7924f588ea76dfcf54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.2.1\d6f54d76edfbe779a50a8636b10fd3f555d8f780\butterknife-annotations-8.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.2.1_0d4402916818e92f3543cd36b503bc4e4c203b41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_af585eb2986b2eec6b4f5ae2b226da2a9efa46d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_2bebf7108713c64f721299ac670db6159213f0f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.2.6\b74bde9cceb2f9ec1077a9c7c3a007c251531ba6\fastjson-1.2.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b74bde9cceb2f9ec1077a9c7c3a007c251531ba6">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\fastjson-1.2.6_ca4d0e55797ce611db5d7b1525b2210569dea9d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_4fc7c5bc3bfdf1f873e4591a391dacde7718eb79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_9b1b1f32adb9c1aaceade1ac368dcfdf6bb621b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Studio\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_1041cf7d21352864b2206fb5270dfc6fb0095516.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f5d4180a574831f465b560f3ccd16f1f4835dbe3">
+        <dex dex="C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b4680594ab42de52d1978f377d8ab70ecdccc9e3.jar" />
+    </item>
+
+</items>

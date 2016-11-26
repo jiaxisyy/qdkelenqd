@@ -2,22 +2,25 @@ package fragment;
 
 import android.graphics.PixelFormat;
 import android.graphics.drawable.AnimationDrawable;
+import android.graphics.drawable.BitmapDrawable;
 import android.os.Bundle;
 import android.os.SystemClock;
 import android.support.annotation.Nullable;
-import android.support.v4.app.Fragment;
 import android.support.v4.widget.DrawerLayout;
 import android.util.Log;
+import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.CheckBox;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+import android.widget.PopupWindow;
 import android.widget.TextView;
 
 import com.hitek.serial.R;
 
+import cn.edu.zafu.corepage.base.BaseFragment;
 import popupwindow.Pupwindow;
 import rx.Observable;
 import rx.Observer;
@@ -31,7 +34,7 @@ import view.AnimotionSGView;
 /**
  * Created by shuang.xiang on 2016/8/11.
  */
-public class AnimationFragment extends Fragment {
+public class AnimationFragment extends BaseFragment {
 
     private static final String TAG = "AnimationFragment";
     private static final String TEST = "test";
@@ -71,7 +74,7 @@ public class AnimationFragment extends Fragment {
     private TextView tvAniInfo;
     private String[] alarmInfo = new String[]{"压力上限报警   ", "压力下限报警   ", "温度上限报警   ", "温度下限报警   "};
     private StringBuffer stringBuffer;
-    private boolean et_flag;
+    private boolean et_flag=true;
     // 标志位，标志已经初始化完成。
     private boolean isPrepared;
     private boolean frag_animation = true;
@@ -85,10 +88,12 @@ public class AnimationFragment extends Fragment {
         initialize();
         //XXX初始化view的各控件
         initData();
+
         initAnimation();
         rwCheckbox();
         write();
         return view;
+
     }
 
     private void write() {
@@ -246,14 +251,15 @@ public class AnimationFragment extends Fragment {
      * 设置按钮的控制
      */
     private void rwCheckbox() {
+        Log.d("HELLO","==========");
         Observable.create(new Observable.OnSubscribe<String[]>() {
             @Override
             public void call(Subscriber<? super String[]> subscriber) {
                 int[] intsCk = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
+                Log.d("HELLO",et_flag+"==========");
                 while (et_flag) {
                     String[] strings = ReadAndWrite.ReadJni(Constants.Define.OP_WORD_D, intsCk);
-
-
+                    Log.d("HELLO",strings[0]+"======000====");
                     subscriber.onNext(strings);
                     SystemClock.sleep(1000);
                 }
@@ -272,6 +278,7 @@ public class AnimationFragment extends Fragment {
             @Override
             public void onNext(final String[] strings) {
                 allRead = strings;
+                Log.d("HELLO",strings[0]+"==========");
                 if (strings[0].equals("1") && s1 != strings[0]) {
                     cb1.setChecked(true);
                 } else if (strings[0].equals("0") && s1 != strings[0]) {
@@ -567,8 +574,8 @@ public class AnimationFragment extends Fragment {
                     animationDrawable.stop();
                 }
 
-
                 int length = strings.length;
+                Log.d("HELLO",strings[0]+"");
                 if (strings != null && length > 0) {
                     //M1
                     if (strings[0].equals("1")) {
@@ -628,33 +635,33 @@ public class AnimationFragment extends Fragment {
                 }
             }
         });
-        drawerLayout.setDrawerListener(new DrawerLayout.DrawerListener() {
-            @Override
-            public void onDrawerSlide(View drawerView, float slideOffset) {
-
-            }
-
-            @Override
-            public void onDrawerOpened(View drawerView) {
-                frag_animation = false;
-                sganimotion.stopCircle(6);
-                sganimotion.stopCircle(8);
-                sganimotion.stopCircle(9);
-
-
-            }
-
-            @Override
-            public void onDrawerClosed(View drawerView) {
-                frag_animation = true;
-                initAnimation();
-            }
-
-            @Override
-            public void onDrawerStateChanged(int newState) {
-
-            }
-        });
+//        drawerLayout.setDrawerListener(new DrawerLayout.DrawerListener() {
+//            @Override
+//            public void onDrawerSlide(View drawerView, float slideOffset) {
+//
+//            }
+//
+//            @Override
+//            public void onDrawerOpened(View drawerView) {
+//                frag_animation = false;
+//                sganimotion.stopCircle(6);
+//                sganimotion.stopCircle(8);
+//                sganimotion.stopCircle(9);
+//
+//
+//            }
+//
+//            @Override
+//            public void onDrawerClosed(View drawerView) {
+//                frag_animation = true;
+//                initAnimation();
+//            }
+//
+//            @Override
+//            public void onDrawerStateChanged(int newState) {
+//
+//            }
+//        });
     }
 
     /**
@@ -771,8 +778,6 @@ public class AnimationFragment extends Fragment {
     }
 
 
-
-
     private void initialize() {
         iv = (ImageView) view.findViewById(R.id.iv_animation_boiling);
         animationDrawable = (AnimationDrawable) iv.getBackground();
@@ -788,32 +793,49 @@ public class AnimationFragment extends Fragment {
         tvan10 = (TextView) view.findViewById(R.id.tv_an10);
         tvnowpressure = (TextView) view.findViewById(R.id.tv_now_pressure);
         tvan5 = (TextView) view.findViewById(R.id.tv_an5);
-        drawerLayout = (DrawerLayout) view.findViewById(R.id.dl_animation);
+//        drawerLayout = (DrawerLayout) view.findViewById(R.id.dl_animation);
         tvan3 = (TextView) view.findViewById(R.id.tv_an3);
         tvanimationsetting = (TextView) view.findViewById(R.id.tv_animation_setting);
         tvan1 = (TextView) view.findViewById(R.id.tv_an1);
 
-        cb1 = (CheckBox) view.findViewById(R.id.cb_setting1);
-        cb2 = (CheckBox) view.findViewById(R.id.cb_setting2);
-        cb3 = (CheckBox) view.findViewById(R.id.cb_setting3);
-        cb4 = (CheckBox) view.findViewById(R.id.cb_setting4);
-        cb5 = (CheckBox) view.findViewById(R.id.cb_setting5);
-        cb6 = (CheckBox) view.findViewById(R.id.cb_setting6);
-        cb7 = (CheckBox) view.findViewById(R.id.cb_setting7);
-        cb8 = (CheckBox) view.findViewById(R.id.cb_setting8);
-        cb9 = (CheckBox) view.findViewById(R.id.cb_setting9);
-        cb10 = (CheckBox) view.findViewById(R.id.cb_setting10);
+
         llAniInfo = (LinearLayout) view.findViewById(R.id.ll_animation_alarmInfo);
         tvAniInfo = (TextView) view.findViewById(R.id.tv_animation_alarmInfo);
         sganimotion.start();
+        final View v1 = LayoutInflater.from(getActivity()).inflate(R.layout.animation_setting, null);
+        cb1 = (CheckBox) v1.findViewById(R.id.cb_setting1);
+        cb2 = (CheckBox) v1.findViewById(R.id.cb_setting2);
+        cb3 = (CheckBox) v1.findViewById(R.id.cb_setting3);
+        cb4 = (CheckBox) v1.findViewById(R.id.cb_setting4);
+        cb5 = (CheckBox) v1.findViewById(R.id.cb_setting5);
+        cb6 = (CheckBox) v1.findViewById(R.id.cb_setting6);
+        cb7 = (CheckBox) v1.findViewById(R.id.cb_setting7);
+        cb8 = (CheckBox) v1.findViewById(R.id.cb_setting8);
+        cb9 = (CheckBox) v1.findViewById(R.id.cb_setting9);
+        cb10 = (CheckBox) v1.findViewById(R.id.cb_setting10);
         tvanimationsetting.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                drawerLayout.openDrawer(ll_anDrawer);
+
+                final PopupWindow pw = new PopupWindow(v1,
+                        ViewGroup.LayoutParams.WRAP_CONTENT,
+                        ViewGroup.LayoutParams.MATCH_PARENT, false);
+                pw.setFocusable(true);
+                pw.setTouchable(true);
+                pw.setBackgroundDrawable(new BitmapDrawable());
+                pw.setAnimationStyle(R.style.myanimation);
+                pw.showAtLocation(v1, Gravity.RIGHT, 0, 0);
+//                pw.showAtLocation(view, Gravity.CENTER, 0, 0);
+                pw.setOutsideTouchable(true);
+
+
+
+
+                //drawerLayout.openDrawer(ll_anDrawer);
             }
         });
 
-        ll_anDrawer = (LinearLayout) view.findViewById(R.id.ll_anDrawer);
+//        ll_anDrawer = (LinearLayout) view.findViewById(R.id.ll_anDrawer);
 
 //       SurfaceHolder holder = sganimotion.getHolder();
 //        holder.addCallback(new SurfaceHolder.Callback() {
@@ -846,9 +868,7 @@ public class AnimationFragment extends Fragment {
 //
 //            }
 //        });
-
     }
-
 
 
 }

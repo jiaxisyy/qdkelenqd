@@ -8,12 +8,12 @@
         "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_lines.xml"
     },
     {
-        "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
@@ -38,6 +38,10 @@
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
         "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\__leak_canary_ref_top_row.xml",
+        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.3.1\\res\\layout\\__leak_canary_ref_top_row.xml"
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\animation_fragment.xml",
@@ -92,6 +96,10 @@
         "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
+        "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_base.xml",
+        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\cn.edu.zafu\\corepage\\0.0.5\\res\\layout\\activity_base.xml"
+    },
+    {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\show_fragment.xml",
         "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\src\\main\\res\\layout\\show_fragment.xml"
     },
@@ -102,6 +110,18 @@
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
         "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\__leak_canary_leak_row.xml",
+        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.3.1\\res\\layout\\__leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\__leak_canary_heap_dump_toast.xml",
+        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.3.1\\res\\layout\\__leak_canary_heap_dump_toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\__leak_canary_display_leak.xml",
+        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.3.1\\res\\layout\\__leak_canary_display_leak.xml"
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarmrecord_recycleview_layout.xml",
@@ -130,6 +150,10 @@
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_classic_default_header.xml",
         "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\in.srain.cube\\ultra-ptr\\1.0.11\\res\\layout\\cube_ptr_classic_default_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\__leak_canary_ref_row.xml",
+        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.3.1\\res\\layout\\__leak_canary_ref_row.xml"
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_picker_dialog.xml",

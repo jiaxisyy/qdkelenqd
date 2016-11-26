@@ -2,17 +2,17 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
 
                 android:layout_width="match_parent"
-                android:layout_height="match_parent">
+                android:layout_height="match_parent"
+                android:background="@drawable/animotion_bg">
 
     <view.AnimotionSGView
         android:id="@+id/sg_animotion"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+        android:layout_height="match_parent"
 
-    <android.support.v4.widget.DrawerLayout
-        android:id="@+id/dl_animation"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
+      />
+
+
 
         <RelativeLayout
             android:layout_width="match_parent"
@@ -28,8 +28,9 @@
 
             <TextView
                 android:id="@+id/tv_animation_setting"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:gravity="center"
                 android:layout_alignParentRight="true"
                 android:layout_marginRight="20px"
                 android:layout_marginTop="8px"
@@ -369,14 +370,14 @@
                 android:textSize="11px"/>
         </RelativeLayout>
 
-        <LinearLayout
-            android:id="@+id/ll_anDrawer"
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:layout_gravity="right"
-            android:orientation="horizontal">
+    <!--<LinearLayout-->
+    <!--android:id="@+id/ll_anDrawer"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:layout_gravity="right"-->
+    <!--android:orientation="horizontal">-->
 
-            <include layout="@layout/animation_setting"/>
-        </LinearLayout>
-    </android.support.v4.widget.DrawerLayout>
+    <!--<include layout="@layout/animation_setting"/>-->
+    <!--</LinearLayout>-->
+
 </RelativeLayout>
