@@ -1,7 +1,7 @@
 [
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_in_top.xml"
+        "source": "C:\\Users\\shuang.xiang\\.android\\build-cache\\c33bf1e8869042df694fb905e57499ec9919c301\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
@@ -9,7 +9,7 @@
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_right.xml",
-        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\cn.edu.zafu\\corepage\\0.0.5\\res\\anim\\slide_out_right.xml"
+        "source": "C:\\Users\\shuang.xiang\\.android\\build-cache\\0df8b87ce04ef86bd4c114e6efcedfede393fd04\\output\\res\\anim\\slide_out_right.xml"
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
@@ -17,23 +17,23 @@
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_out_bottom.xml"
+        "source": "C:\\Users\\shuang.xiang\\.android\\build-cache\\c33bf1e8869042df694fb905e57499ec9919c301\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_fade_in.xml"
+        "source": "C:\\Users\\shuang.xiang\\.android\\build-cache\\c33bf1e8869042df694fb905e57499ec9919c301\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_left.xml",
-        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\cn.edu.zafu\\corepage\\0.0.5\\res\\anim\\slide_out_left.xml"
+        "source": "C:\\Users\\shuang.xiang\\.android\\build-cache\\0df8b87ce04ef86bd4c114e6efcedfede393fd04\\output\\res\\anim\\slide_out_left.xml"
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_in.xml",
-        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\cn.edu.zafu\\corepage\\0.0.5\\res\\anim\\alpha_in.xml"
+        "source": "C:\\Users\\shuang.xiang\\.android\\build-cache\\0df8b87ce04ef86bd4c114e6efcedfede393fd04\\output\\res\\anim\\alpha_in.xml"
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_left.xml",
-        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\cn.edu.zafu\\corepage\\0.0.5\\res\\anim\\slide_in_left.xml"
+        "source": "C:\\Users\\shuang.xiang\\.android\\build-cache\\0df8b87ce04ef86bd4c114e6efcedfede393fd04\\output\\res\\anim\\slide_in_left.xml"
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_window_exit.xml",
@@ -41,39 +41,39 @@
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_out.xml",
-        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\cn.edu.zafu\\corepage\\0.0.5\\res\\anim\\alpha_out.xml"
+        "source": "C:\\Users\\shuang.xiang\\.android\\build-cache\\0df8b87ce04ef86bd4c114e6efcedfede393fd04\\output\\res\\anim\\alpha_out.xml"
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_out.xml",
-        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\cn.edu.zafu\\corepage\\0.0.5\\res\\anim\\zoom_out.xml"
+        "source": "C:\\Users\\shuang.xiang\\.android\\build-cache\\0df8b87ce04ef86bd4c114e6efcedfede393fd04\\output\\res\\anim\\zoom_out.xml"
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_in_down.xml",
-        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\cn.edu.zafu\\corepage\\0.0.5\\res\\anim\\push_in_down.xml"
+        "source": "C:\\Users\\shuang.xiang\\.android\\build-cache\\0df8b87ce04ef86bd4c114e6efcedfede393fd04\\output\\res\\anim\\push_in_down.xml"
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "source": "C:\\Users\\shuang.xiang\\.android\\build-cache\\c33bf1e8869042df694fb905e57499ec9919c301\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_popup_enter.xml"
+        "source": "C:\\Users\\shuang.xiang\\.android\\build-cache\\c33bf1e8869042df694fb905e57499ec9919c301\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_out_top.xml"
+        "source": "C:\\Users\\shuang.xiang\\.android\\build-cache\\c33bf1e8869042df694fb905e57499ec9919c301\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_in.xml",
-        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\cn.edu.zafu\\corepage\\0.0.5\\res\\anim\\zoom_in.xml"
+        "source": "C:\\Users\\shuang.xiang\\.android\\build-cache\\0df8b87ce04ef86bd4c114e6efcedfede393fd04\\output\\res\\anim\\zoom_in.xml"
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_popup_exit.xml"
+        "source": "C:\\Users\\shuang.xiang\\.android\\build-cache\\c33bf1e8869042df694fb905e57499ec9919c301\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_right.xml",
-        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\cn.edu.zafu\\corepage\\0.0.5\\res\\anim\\slide_in_right.xml"
+        "source": "C:\\Users\\shuang.xiang\\.android\\build-cache\\0df8b87ce04ef86bd4c114e6efcedfede393fd04\\output\\res\\anim\\slide_in_right.xml"
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\anim\\window_pop_anim.xml",
@@ -81,22 +81,22 @@
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_fade_out.xml"
+        "source": "C:\\Users\\shuang.xiang\\.android\\build-cache\\c33bf1e8869042df694fb905e57499ec9919c301\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_out_down.xml",
-        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\cn.edu.zafu\\corepage\\0.0.5\\res\\anim\\push_out_down.xml"
+        "source": "C:\\Users\\shuang.xiang\\.android\\build-cache\\0df8b87ce04ef86bd4c114e6efcedfede393fd04\\output\\res\\anim\\push_out_down.xml"
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_no_ani.xml",
-        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\cn.edu.zafu\\corepage\\0.0.5\\res\\anim\\push_no_ani.xml"
+        "source": "C:\\Users\\shuang.xiang\\.android\\build-cache\\0df8b87ce04ef86bd4c114e6efcedfede393fd04\\output\\res\\anim\\push_no_ani.xml"
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "source": "C:\\Users\\shuang.xiang\\.android\\build-cache\\c33bf1e8869042df694fb905e57499ec9919c301\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\shuang.xiang\\Desktop\\qdkelenqd\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_in_bottom.xml"
+        "source": "C:\\Users\\shuang.xiang\\.android\\build-cache\\c33bf1e8869042df694fb905e57499ec9919c301\\output\\res\\anim\\abc_slide_in_bottom.xml"
     }
 ]

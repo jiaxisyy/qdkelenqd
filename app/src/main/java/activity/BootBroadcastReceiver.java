@@ -13,7 +13,7 @@ public class BootBroadcastReceiver extends BroadcastReceiver {
     public void onReceive(Context context, Intent intent) {
 
         if (intent.getAction().equals(ACTION)) {
-            Intent mainActivityIntent = new Intent(context, MainFragment.class);  // 要启动的Activity
+            Intent mainActivityIntent = new Intent(context, MainActivity.class);  // 要启动的Activity
             mainActivityIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
             context.startActivity(mainActivityIntent);
         }

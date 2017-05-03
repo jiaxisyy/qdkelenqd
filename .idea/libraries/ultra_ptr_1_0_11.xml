@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="ultra-ptr-1.0.11">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/in.srain.cube/ultra-ptr/1.0.11/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/in.srain.cube/ultra-ptr/1.0.11/res" />
+      <root url="file://$USER_HOME$/.android/build-cache/c50b697bfb4813d41f53f3b6a1fb022d9533b370/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/c50b697bfb4813d41f53f3b6a1fb022d9533b370/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

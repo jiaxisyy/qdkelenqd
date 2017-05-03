@@ -190,6 +190,8 @@ public class MainFragment extends BaseFragment implements View.OnClickListener {
 
     }
 
+
+
     public void initData() {
 
         // updataMainActivity();
